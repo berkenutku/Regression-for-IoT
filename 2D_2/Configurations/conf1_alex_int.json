@@ -1,0 +1,101 @@
+{
+"name": "mobo",
+
+"domain": {
+
+  "f1": {
+    "name":"f1",
+    "type":"int",
+    "min":1,
+    "max":7
+  },
+
+  "k1": {
+    "name":"k1",
+    "type":"int",
+    "min":1,
+    "max":4
+  },
+ 
+   "p1": {
+    "name":"p1",
+    "type":"int",
+    "min":1,
+    "max":3
+  },
+  
+  "f2": {
+    "name":"f2",
+    "type":"int",
+    "min":1,
+    "max":7
+  },
+
+  "k2": {
+    "name":"k2",
+    "type":"int",
+    "min":1,
+    "max":4
+  },
+
+  "layer_n2": {
+    "name":"l2",
+    "type":"int",
+    "min": 1,
+    "max": 3
+  },
+ 
+   "p2": {
+    "name":"p2",
+    "type":"int",
+    "min":1,
+    "max":3
+  },
+
+  "f3": {
+    "name":"f3",
+    "type":"int",
+    "min":1,
+    "max":7
+  },
+
+  "k3": {
+    "name":"k3",
+    "type":"int",
+    "min":1,
+    "max":4
+  },
+
+  "layer_n3": {
+    "name":"l3",
+    "type":"int",
+    "min": 1,
+    "max": 3
+  },
+ 
+   "p3": {
+    "name":"p3",
+    "type":"int",
+    "min":1,
+    "max":3
+  },
+
+  "fc1": {
+    "name":"fc1",
+    "type":"int",
+    "min":0,
+    "max":4
+   },
+
+  "fc2": {
+    "name":"fc2",
+    "type":"int",
+    "min":0,
+    "max":4
+   }
+
+
+
+  }
+}
+

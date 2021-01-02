@@ -1,0 +1,90 @@
+{
+"name": "mobo",
+
+"domain": {
+
+  "f1": {
+    "name":"f1",
+    "type":"discrete_numeric",
+    "items":"36-64-96-128-256-384-512"
+  },
+
+  "k1": {
+    "name":"k1",
+    "type":"discrete_numeric",
+    "items":"3-5-7-11"
+  },
+ 
+   "p1": {
+    "name":"p1",
+    "type":"discrete_numeric",
+    "items":"0-1-2"
+  },
+  
+  "f2": {
+    "name":"f2",
+    "type":"discrete_numeric",
+    "items":"36-64-96-128-256-384-512"
+  },
+
+  "k2": {
+    "name":"k2",
+    "type":"discrete_numeric",
+    "items":"3-5-7-11"
+  },
+
+  "layer_n2": {
+    "name":"l2",
+    "type":"discrete_numeric",
+    "min": 1,
+    "max": 3
+  },
+ 
+   "p2": {
+    "name":"p2",
+    "type":"discrete_numeric",
+    "items":"0-1-2"
+  },
+
+  "f3": {
+    "name":"f3",
+    "type":"discrete_numeric",
+    "items":"36-64-96-128-256-384-512"
+  },
+
+  "k3": {
+    "name":"k3",
+    "type":"discrete_numeric",
+    "items":"3-5-7-11"
+  },
+
+  "layer_n3": {
+    "name":"l3",
+    "type":"discrete_numeric",
+    "min": 1,
+    "max": 3
+  },
+ 
+   "p3": {
+    "name":"p3",
+    "type":"discrete_numeric",
+    "items":"0-1-2"
+  },
+
+  "fc1": {
+    "name":"fc1",
+    "type":"discrete_numeric",
+    "items":"0-0.25-0.5-0.75-1"
+   },
+
+  "fc2": {
+    "name":"fc2",
+    "type":"discrete_numeric",
+    "items":"0-0.25-0.5-0.75-1"
+   }
+
+
+
+  }
+}
+

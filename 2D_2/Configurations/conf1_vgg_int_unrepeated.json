@@ -1,0 +1,154 @@
+{
+"name": "mobo",
+
+"domain": {
+
+  "f1": {
+    "name":"f1",
+    "type":"int",
+    "min":1,
+    "max":8
+  },
+
+  "k1": {
+    "name":"k1",
+    "type":"int",
+    "min":1,
+    "max":4
+  },
+
+  "layer_n1": {
+    "name":"l1",
+    "type":"int",
+    "min": 1,
+    "max": 3
+  },
+ 
+   "p1": {
+    "name":"p1",
+    "type":"boolean"
+  },
+  
+  "f2": {
+    "name":"f2",
+    "type":"int",
+    "min":1,
+    "max":8
+  },
+
+  "k2": {
+    "name":"k2",
+    "type":"int",
+    "min":1,
+    "max":4
+  },
+
+  "layer_n2": {
+    "name":"l2",
+    "type":"int",
+    "min": 1,
+    "max": 3
+  },
+ 
+   "p2": {
+    "name":"p2",
+    "type":"boolean"
+  },
+
+  "f3": {
+    "name":"f3",
+    "type":"int",
+    "min":1,
+    "max":8
+  },
+
+  "k3": {
+    "name":"k3",
+    "type":"int",
+    "min":1,
+    "max":4
+  },
+
+  "layer_n3": {
+    "name":"l3",
+    "type":"int",
+    "min": 1,
+    "max": 3
+  },
+ 
+   "p3": {
+    "name":"p3",
+    "type":"boolean"
+  },
+
+  "f4": {
+    "name":"f4",
+    "type":"int",
+    "min":1,
+    "max":8
+  },
+
+  "k4": {
+    "name":"k4",
+    "type":"int",
+    "min":1,
+    "max":4
+  },
+
+  "layer_n4": {
+    "name":"l4",
+    "type":"int",
+    "min": 1,
+    "max": 3
+  },
+ 
+   "p4": {
+    "name":"p4",
+    "type":"boolean"
+  },
+
+  "f5": {
+    "name":"f5",
+    "type":"int",
+    "min":1,
+    "max":8
+  },
+
+  "k5": {
+    "name":"k5",
+    "type":"int",
+    "min":1,
+    "max":4
+  },
+
+  "layer_n5": {
+    "name":"l5",
+    "type":"int",
+    "min": 1,
+    "max": 3
+  },
+ 
+  "p5": {
+    "name":"p5",
+    "type":"boolean"
+  },
+
+  "fc1": {
+    "name":"fc1",
+    "type":"int",
+    "min":0,
+    "max":4
+   },
+
+  "fc2": {
+    "name":"fc2",
+    "type":"int",
+    "min":0,
+    "max":4
+   }
+
+
+
+  }
+}
+
